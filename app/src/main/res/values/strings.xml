@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EOSFinalAssignment</string>
+    <string name="hint_phone_number"></string>
+    <string-array name="dials">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>*</item>
+        <item>0</item>
+        <item>#</item>
+    </string-array>
+
+    <string-array name="dial_captions">
+        <item></item>
+        <item>A B C</item>
+        <item>D E F</item>
+        <item>G H I</item>
+        <item>J K L</item>
+        <item>M N O</item>
+        <item>P Q R S</item>
+        <item>T U W</item>
+        <item>W X Y Z</item>
+        <item></item>
+        <item>+</item>
+        <item></item>
+    </string-array>
+</resources>
