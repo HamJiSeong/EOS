@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:4:5-69
+	android:name
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:4:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:5:22-69
+application
+ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\瘤己\.android\build-cache\7a2f1a0abb11e8e99dfd93d416eaddbd3b000fff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\瘤己\.android\build-cache\b1eccbc234bbcfa628d236c52932d3fb671e0cce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\瘤己\.android\build-cache\b37b800e2ff96bad6fecbb5ff52dd839117e0afc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\瘤己\.android\build-cache\7a869ae58aafd3eceebbac44e7d218ca079a4b22\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\瘤己\.android\build-cache\4ed3d1164bd6c47f47228a7250b4f0f5cd7c9bf7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\瘤己\.android\build-cache\ac1f2e54c244deab3c48ba6fa27231e74b46b791\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\瘤己\.android\build-cache\66efba8851506882ec6cdbdffffd5910c08a4c61\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\瘤己\.android\build-cache\b4141246cc4a81d0b70ea8a00c1fc3a30fe0e67c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\瘤己\.android\build-cache\f4d8f8f2b2467f2d0a0c6ae7c5328e745ccb0e42\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\瘤己\.android\build-cache\e89cf56545e758d76cfe769ded59fa8843f160b8\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:13:9-40
+activity#eos.hgs.eosfinalassignment.MainActivity
+ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:exported
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\瘤己\.android\build-cache\7a2f1a0abb11e8e99dfd93d416eaddbd3b000fff\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\瘤己\.android\build-cache\b1eccbc234bbcfa628d236c52932d3fb671e0cce\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\瘤己\.android\build-cache\b37b800e2ff96bad6fecbb5ff52dd839117e0afc\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\瘤己\.android\build-cache\7a869ae58aafd3eceebbac44e7d218ca079a4b22\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\瘤己\.android\build-cache\4ed3d1164bd6c47f47228a7250b4f0f5cd7c9bf7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\瘤己\.android\build-cache\ac1f2e54c244deab3c48ba6fa27231e74b46b791\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\瘤己\.android\build-cache\66efba8851506882ec6cdbdffffd5910c08a4c61\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\瘤己\.android\build-cache\b4141246cc4a81d0b70ea8a00c1fc3a30fe0e67c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\瘤己\.android\build-cache\24604a246af550a3dae097395abfa50bff8afe59\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\瘤己\.android\build-cache\f4d8f8f2b2467f2d0a0c6ae7c5328e745ccb0e42\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\瘤己\.android\build-cache\e89cf56545e758d76cfe769ded59fa8843f160b8\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\瘤己\.android\build-cache\7a2f1a0abb11e8e99dfd93d416eaddbd3b000fff\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Java Project\Android\EOSFinalAssignment\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\瘤己\.android\build-cache\7a2f1a0abb11e8e99dfd93d416eaddbd3b000fff\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\瘤己\.android\build-cache\b1eccbc234bbcfa628d236c52932d3fb671e0cce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\瘤己\.android\build-cache\b37b800e2ff96bad6fecbb5ff52dd839117e0afc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\瘤己\.android\build-cache\7a869ae58aafd3eceebbac44e7d218ca079a4b22\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\瘤己\.android\build-cache\4ed3d1164bd6c47f47228a7250b4f0f5cd7c9bf7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\瘤己\.android\build-cache\ac1f2e54c244deab3c48ba6fa27231e74b46b791\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\瘤己\.android\build-cache\66efba8851506882ec6cdbdffffd5910c08a4c61\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\瘤己\.android\build-cache\b4141246cc4a81d0b70ea8a00c1fc3a30fe0e67c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\瘤己\.android\build-cache\24604a246af550a3dae097395abfa50bff8afe59\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\瘤己\.android\build-cache\f4d8f8f2b2467f2d0a0c6ae7c5328e745ccb0e42\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\瘤己\.android\build-cache\e89cf56545e758d76cfe769ded59fa8843f160b8\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\瘤己\.android\build-cache\7a2f1a0abb11e8e99dfd93d416eaddbd3b000fff\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\瘤己\.android\build-cache\7a2f1a0abb11e8e99dfd93d416eaddbd3b000fff\output\AndroidManifest.xml:26:9-47

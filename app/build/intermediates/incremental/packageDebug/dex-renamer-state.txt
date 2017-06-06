@@ -1,0 +1,7 @@
+#Tue Jun 06 13:04:43 KST 2017
+base.0=D\:\\Projects\\Java Project\\Android\\EOSFinalAssignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_07c0f08387130286a27d949be1cb9a1df42d9413
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Projects\\Java Project\\Android\\EOSFinalAssignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c2c2145683cd8925fb5e2d16b4415ffc2a21e2fa\\classes.dex
+base.1=D\:\\Projects\\Java Project\\Android\\EOSFinalAssignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c2c2145683cd8925fb5e2d16b4415ffc2a21e2fa
+file.0=D\:\\Projects\\Java Project\\Android\\EOSFinalAssignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_07c0f08387130286a27d949be1cb9a1df42d9413\\classes.dex

@@ -1,0 +1,4 @@
+#Sat Jun 03 15:03:04 KST 2017
+base.0=D\:\\Projects\\Java Project\\Android\\EOSFinalAssignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=D\:\\Projects\\Java Project\\Android\\EOSFinalAssignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex
